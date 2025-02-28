@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saes\\Documents\\Fiap\\2_ano\\dotnet\\TDSPK\\TDSPK.csproj": {}
+    "C:\\Users\\Saes\\Documents\\Fiap\\2_ano\\CSharp\\TDSPK\\TDSPK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saes\\Documents\\Fiap\\2_ano\\dotnet\\TDSPK\\TDSPK.csproj": {
+    "C:\\Users\\Saes\\Documents\\Fiap\\2_ano\\CSharp\\TDSPK\\TDSPK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saes\\Documents\\Fiap\\2_ano\\dotnet\\TDSPK\\TDSPK.csproj",
+        "projectUniqueName": "C:\\Users\\Saes\\Documents\\Fiap\\2_ano\\CSharp\\TDSPK\\TDSPK.csproj",
         "projectName": "TDSPK",
-        "projectPath": "C:\\Users\\Saes\\Documents\\Fiap\\2_ano\\dotnet\\TDSPK\\TDSPK.csproj",
+        "projectPath": "C:\\Users\\Saes\\Documents\\Fiap\\2_ano\\CSharp\\TDSPK\\TDSPK.csproj",
         "packagesPath": "C:\\Users\\Saes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saes\\Documents\\Fiap\\2_ano\\dotnet\\TDSPK\\obj\\",
+        "outputPath": "C:\\Users\\Saes\\Documents\\Fiap\\2_ano\\CSharp\\TDSPK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.23.70, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
