@@ -7,5 +7,7 @@ namespace TDSPK.Infrastructure.Persistence
     {
         public int Id { get; private set; }
         public string Name { get; set; }
+
+        public bool Status { get; set; }
     }
 }

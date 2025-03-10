@@ -1,4 +1,7 @@
 
+using Microsoft.EntityFrameworkCore;
+using TDSPK.Infrastructure.Context;
+
 namespace TDSPK
 {
     public class Program
@@ -13,6 +16,11 @@ namespace TDSPK
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddDbContext<PhotosContext>(options =>
+            options.UseOracle(builder.Configuration.GetConnectionString("Oracle"))
+            );
+
 
             var app = builder.Build();
 

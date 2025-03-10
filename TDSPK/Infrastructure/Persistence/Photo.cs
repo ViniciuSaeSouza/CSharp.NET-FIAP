@@ -9,8 +9,7 @@ public class Photo
     
     public int Id { get; private set; }
     
-    [Required]
-    public User User { get; set; }
+    //public User User { get; set; }
     
     [Required]
     [Url]

@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using TDSPK.Infrastructure.Persistence;
 
 namespace TDSPK.Infrastructure.Mappings
 {
@@ -12,9 +13,9 @@ namespace TDSPK.Infrastructure.Mappings
             builder
                 .HasKey("Id");
 
-            builder
-                .Property(p => p.User)
-                .IsRequired();
+            //builder
+            //    .Property(p => p.User)
+            //    .IsRequired();
 
             builder
                 .Property(p => p.Url)
