@@ -1,7 +1,7 @@
 ﻿using TDSPK.Domain;
 using TDSPK.Domain.Enums;
 
-namespace TDSPK.Persistence
+namespace TDSPK.Infrastructure.Persistence
 {
     public class User : Audictor
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "01UDOW+0ACs=",
+  "dgSpecHash": "GctgbZoTjkQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Saes\\Documents\\Fiap\\2_ano\\CSharp\\TDSPK\\TDSPK.csproj",
+  "projectFilePath": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\TDSPK.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saes\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.13\\microsoft.entityframeworkcore.8.0.13.nupkg.sha512",
     "C:\\Users\\Saes\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.13\\microsoft.entityframeworkcore.abstractions.8.0.13.nupkg.sha512",
