@@ -1,15 +1,15 @@
 [
   {
-    "ContainingType": "TDSPK.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "TDSPK.Controllers.PhotosController",
+    "Method": "GetPhotos",
+    "RelativePath": "api/Photos",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[TDSPK.WeatherForecast, TDSPK, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[TDSPK.Infrastructure.Persistence.Photo, TDSPK, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -17,20 +17,25 @@
         ],
         "StatusCode": 200
       }
-    ],
-    "EndpointName": "GetWeatherForecast"
+    ]
   },
   {
-    "ContainingType": "TDSPK.Controllers.WeatherForecastController",
-    "Method": "GetTeste",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "TDSPK.Controllers.PhotosController",
+    "Method": "PostPhoto",
+    "RelativePath": "api/Photos",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "photo",
+        "Type": "TDSPK.Infrastructure.Persistence.Photo",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "TDSPK.Infrastructure.Persistence.Photo",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -38,7 +43,69 @@
         ],
         "StatusCode": 200
       }
+    ]
+  },
+  {
+    "ContainingType": "TDSPK.Controllers.PhotosController",
+    "Method": "GetPhoto",
+    "RelativePath": "api/Photos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
     ],
-    "EndpointName": "GetTeste"
+    "ReturnTypes": [
+      {
+        "Type": "TDSPK.Infrastructure.Persistence.Photo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TDSPK.Controllers.PhotosController",
+    "Method": "PutPhoto",
+    "RelativePath": "api/Photos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "photo",
+        "Type": "TDSPK.Infrastructure.Persistence.Photo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TDSPK.Controllers.PhotosController",
+    "Method": "DeletePhoto",
+    "RelativePath": "api/Photos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
