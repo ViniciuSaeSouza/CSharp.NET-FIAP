@@ -17,7 +17,7 @@ public class Photo
     
     public int Length { get; set; }
     
-    public DateTime Date { get; private set; }
+    public DateTime Date { get;  private set; }
 
     public Photo(string url)
     {

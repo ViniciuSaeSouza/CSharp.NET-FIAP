@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TDSPK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c8d2de570a36f6339808fab75360797531c9ae6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+692fe4cc939bd7d888cf114bffa4f4cf7dae3198")]
 [assembly: System.Reflection.AssemblyProductAttribute("TDSPK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TDSPK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
