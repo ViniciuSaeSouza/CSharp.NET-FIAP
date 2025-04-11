@@ -39,6 +39,12 @@
                 }
               }
             }
+          },
+          "503": {
+            "description": "Service Unavailable"
+          },
+          "500": {
+            "description": "Internal Server Error"
           }
         }
       },
@@ -128,46 +134,6 @@
           }
         }
       },
-      "put": {
-        "tags": [
-          "Photos"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Photo"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Photo"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/Photo"
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
       "delete": {
         "tags": [
           "Photos"
@@ -200,8 +166,8 @@
         "type": "object",
         "properties": {
           "id": {
-            "type": "integer",
-            "format": "int32",
+            "type": "string",
+            "format": "uuid",
             "readOnly": true
           },
           "url": {
@@ -217,9 +183,59 @@
             "type": "string",
             "format": "date-time",
             "readOnly": true
+          },
+          "user": {
+            "$ref": "#/components/schemas/User"
+          },
+          "userId": {
+            "type": "string",
+            "format": "uuid"
           }
         },
         "additionalProperties": false
+      },
+      "User": {
+        "type": "object",
+        "properties": {
+          "dateCreated": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "dateModified": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "status": {
+            "$ref": "#/components/schemas/UserStatus"
+          },
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "readOnly": true
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "photos": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Photo"
+            },
+            "nullable": true,
+            "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UserStatus": {
+        "enum": [
+          0,
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
       }
     }
   }

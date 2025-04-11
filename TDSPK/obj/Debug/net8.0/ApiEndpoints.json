@@ -16,6 +16,16 @@
           "text/json"
         ],
         "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 503
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
       }
     ]
   },
@@ -70,27 +80,6 @@
         "StatusCode": 200
       }
     ]
-  },
-  {
-    "ContainingType": "TDSPK.Controllers.PhotosController",
-    "Method": "PutPhoto",
-    "RelativePath": "api/Photos/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "photo",
-        "Type": "TDSPK.Infrastructure.Persistence.Photo",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
   },
   {
     "ContainingType": "TDSPK.Controllers.PhotosController",
