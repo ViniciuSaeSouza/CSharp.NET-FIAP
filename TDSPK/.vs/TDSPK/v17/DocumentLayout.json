@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|c:\\users\\saes\\documents\\fiap\\2025\\csharp.net-fiap\\tdspk\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|c:\\users\\saes\\documents\\fiap\\2025\\csharp.net-fiap\\tdspk\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|c:\\users\\saes\\documents\\fiap\\2025\\csharp.net-fiap\\tdspk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|c:\\users\\saes\\documents\\fiap\\2025\\csharp.net-fiap\\tdspk\\tdspk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|solutionrelative:tdspk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|c:\\users\\saes\\documents\\fiap\\2025\\csharp.net-fiap\\tdspk\\tdspk.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|solutionrelative:tdspk.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|c:\\users\\saes\\documents\\fiap\\2025\\csharp.net-fiap\\tdspk\\migrations\\photoscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|solutionrelative:migrations\\photoscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|c:\\users\\saes\\documents\\fiap\\2025\\csharp.net-fiap\\tdspk\\infrastructure\\context\\photoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8201B806-86AA-448E-BCB0-FAEE79618B30}|TDSPK.csproj|solutionrelative:infrastructure\\context\\photoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,28 +46,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TDSPK.http",
+              "DocumentMoniker": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\TDSPK.http",
+              "RelativeDocumentMoniker": "TDSPK.http",
+              "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\TDSPK.http",
+              "RelativeToolTip": "TDSPK.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-16T00:47:36.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhotosContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Migrations\\PhotosContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\PhotosContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Migrations\\PhotosContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\PhotosContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:47:28.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T00:33:10.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T00:33:03.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T00:32:57.91Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "TDSPK",
+              "DocumentMoniker": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\TDSPK.csproj",
+              "RelativeDocumentMoniker": "TDSPK.csproj",
+              "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\TDSPK.csproj",
+              "RelativeToolTip": "TDSPK.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T00:32:35.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PhotosContext.cs",
               "DocumentMoniker": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Infrastructure\\Context\\PhotosContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Context\\PhotosContext.cs",
               "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Infrastructure\\Context\\PhotosContext.cs",
               "RelativeToolTip": "Infrastructure\\Context\\PhotosContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T15:08:20.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Photo.cs",
               "DocumentMoniker": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Infrastructure\\Persistence\\Photo.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Photo.cs",
@@ -51,12 +153,11 @@
               "RelativeToolTip": "Infrastructure\\Persistence\\Photo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAIwBsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:54:05.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:54:05.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Infrastructure\\Persistence\\User.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistence\\User.cs",
@@ -64,8 +165,7 @@
               "RelativeToolTip": "Infrastructure\\Persistence\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T22:49:38.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T22:49:38.538Z"
             }
           ]
         }

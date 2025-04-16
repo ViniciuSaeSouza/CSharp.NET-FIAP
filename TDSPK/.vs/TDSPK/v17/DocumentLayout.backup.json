@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Infrastructure\\Context\\PhotosContext.cs",
               "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Infrastructure\\Context\\PhotosContext.cs",
               "RelativeToolTip": "Infrastructure\\Context\\PhotosContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T15:08:20.856Z",
               "EditorCaption": ""
@@ -47,12 +47,11 @@
               "Title": "Photo.cs",
               "DocumentMoniker": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Infrastructure\\Persistence\\Photo.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Photo.cs",
-              "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Infrastructure\\Persistence\\Photo.cs*",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Photo.cs*",
+              "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Infrastructure\\Persistence\\Photo.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Photo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAIwBsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:54:05.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:54:05.087Z"
             },
             {
               "$type": "Document",
@@ -60,12 +59,11 @@
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Infrastructure\\Persistence\\User.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistence\\User.cs",
-              "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Infrastructure\\Persistence\\User.cs*",
-              "RelativeToolTip": "Infrastructure\\Persistence\\User.cs*",
+              "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Infrastructure\\Persistence\\User.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T22:49:38.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T22:49:38.538Z"
             }
           ]
         }
