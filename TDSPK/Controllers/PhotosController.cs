@@ -8,6 +8,7 @@ namespace TDSPK.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Tags("Fotos")]
     public class PhotosController : ControllerBase
     {
         private readonly PhotosContext _context;
@@ -22,6 +23,16 @@ namespace TDSPK.Controllers
         [ProducesResponseType((int)HttpStatusCode.OK)]
         [ProducesResponseType((int)HttpStatusCode.ServiceUnavailable)]
         [ProducesResponseType((int)HttpStatusCode.InternalServerError)]
+        /// <summary>
+        /// Retorna uma lista de fotos
+        /// </summary>>
+        /// <remarks>
+        /// Exemplo de solicitação:
+        ///     GET api/photos
+        /// </remarks>
+        /// <response code = "200"> Retorna uma lista de fotos </response>
+        /// <response code = "500"> Erro interno do servidor </response>
+        /// <response code = "503"> Serviço indisponível </response>
         public async Task<ActionResult<IEnumerable<Photo>>> GetPhotos()
         {
             return await _context.Photos.ToListAsync();

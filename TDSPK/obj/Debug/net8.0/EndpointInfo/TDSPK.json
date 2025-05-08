@@ -1,14 +1,19 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "TDSPK",
-    "version": "1.0"
+    "title": "API para cadastro de Photo",
+    "description": "API da Turma PK 2025 - 1° semestre",
+    "contact": {
+      "name": "Vinicius",
+      "email": "vinicius@fiap.com"
+    },
+    "version": "v1"
   },
   "paths": {
     "/api/Photos": {
       "get": {
         "tags": [
-          "Photos"
+          "Fotos"
         ],
         "responses": {
           "200": {
@@ -50,7 +55,7 @@
       },
       "post": {
         "tags": [
-          "Photos"
+          "Fotos"
         ],
         "requestBody": {
           "content": {
@@ -98,7 +103,7 @@
     "/api/Photos/{id}": {
       "get": {
         "tags": [
-          "Photos"
+          "Fotos"
         ],
         "parameters": [
           {
@@ -136,7 +141,7 @@
       },
       "delete": {
         "tags": [
-          "Photos"
+          "Fotos"
         ],
         "parameters": [
           {

@@ -27,6 +27,9 @@
         "MediaTypes": [],
         "StatusCode": 500
       }
+    ],
+    "Tags": [
+      "Fotos"
     ]
   },
   {
@@ -53,6 +56,9 @@
         ],
         "StatusCode": 200
       }
+    ],
+    "Tags": [
+      "Fotos"
     ]
   },
   {
@@ -79,6 +85,9 @@
         ],
         "StatusCode": 200
       }
+    ],
+    "Tags": [
+      "Fotos"
     ]
   },
   {
@@ -95,6 +104,9 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [],
+    "Tags": [
+      "Fotos"
+    ]
   }
 ]
