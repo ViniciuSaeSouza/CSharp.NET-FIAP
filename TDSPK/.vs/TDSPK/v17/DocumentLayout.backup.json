@@ -53,6 +53,10 @@
           "SelectedChildIndex": 10,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PhotoMapping.cs",
@@ -66,10 +70,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
@@ -77,9 +77,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T13:56:21.157Z"
+              "WhenOpened": "2025-04-28T13:56:21.157Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -91,7 +92,8 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-16T00:33:03.955Z"
+              "WhenOpened": "2025-04-16T00:33:03.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -103,7 +105,8 @@
               "RelativeToolTip": "Infrastructure\\Context\\PhotosContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T15:08:20.856Z"
+              "WhenOpened": "2025-04-07T15:08:20.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -115,7 +118,8 @@
               "RelativeToolTip": "TDSPK.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-16T00:32:35.801Z"
+              "WhenOpened": "2025-04-16T00:32:35.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,7 +131,8 @@
               "RelativeToolTip": "Controllers\\PhotosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T14:03:46.109Z"
+              "WhenOpened": "2025-04-28T14:03:46.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -151,7 +156,8 @@
               "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\TDSPK.csproj",
               "RelativeToolTip": "TDSPK.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-28T14:13:36.073Z"
+              "WhenOpened": "2025-04-28T14:13:36.073Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -163,7 +169,8 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-16T00:32:57.91Z"
+              "WhenOpened": "2025-04-16T00:32:57.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -173,7 +180,7 @@
               "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Photo.cs",
               "ToolTip": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\Infrastructure\\Persistence\\Photo.cs",
               "RelativeToolTip": "Infrastructure\\Persistence\\Photo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T13:54:05.087Z",
               "EditorCaption": ""

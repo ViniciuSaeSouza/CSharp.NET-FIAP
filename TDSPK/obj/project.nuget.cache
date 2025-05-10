@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+qV0MN/Rx9M=",
+  "dgSpecHash": "ioUhxcLDlWc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Saes\\Documents\\Fiap\\2025\\CSharp.NET-FIAP\\TDSPK\\TDSPK.csproj",
+  "projectFilePath": "C:\\Users\\Saes\\Documents\\programacao\\Fiap\\CSharp.NET-FIAP\\TDSPK\\TDSPK.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saes\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Saes\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
