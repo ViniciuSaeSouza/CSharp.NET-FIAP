@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TDSPK")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Revisao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+586662c27cbe6c60822203591dd4473d69868b67")]
-[assembly: System.Reflection.AssemblyProductAttribute("TDSPK")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TDSPK")]
+[assembly: System.Reflection.AssemblyProductAttribute("Revisao")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Revisao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

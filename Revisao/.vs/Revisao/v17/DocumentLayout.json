@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Saes\\Documents\\programacao\\Fiap\\CSharp.NET-FIAP\\Revisao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3A1FE-45A7-4611-963D-695CA3FA2F42}|Revisao.csproj|c:\\users\\saes\\documents\\programacao\\fiap\\csharp.net-fiap\\revisao\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3A1FE-45A7-4611-963D-695CA3FA2F42}|Revisao.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3A1FE-45A7-4611-963D-695CA3FA2F42}|Revisao.csproj|c:\\users\\saes\\documents\\programacao\\fiap\\csharp.net-fiap\\revisao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10A3A1FE-45A7-4611-963D-695CA3FA2F42}|Revisao.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3A1FE-45A7-4611-963D-695CA3FA2F42}|Revisao.csproj|c:\\users\\saes\\documents\\programacao\\fiap\\csharp.net-fiap\\revisao\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3A1FE-45A7-4611-963D-695CA3FA2F42}|Revisao.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3A1FE-45A7-4611-963D-695CA3FA2F42}|Revisao.csproj|c:\\users\\saes\\documents\\programacao\\fiap\\csharp.net-fiap\\revisao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3A1FE-45A7-4611-963D-695CA3FA2F42}|Revisao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3A1FE-45A7-4611-963D-695CA3FA2F42}|Revisao.csproj|c:\\users\\saes\\documents\\programacao\\fiap\\csharp.net-fiap\\revisao\\revisao.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{10A3A1FE-45A7-4611-963D-695CA3FA2F42}|Revisao.csproj|solutionrelative:revisao.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 97,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Saes\\Documents\\programacao\\Fiap\\CSharp.NET-FIAP\\Revisao\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Saes\\Documents\\programacao\\Fiap\\CSharp.NET-FIAP\\Revisao\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:46:20.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saes\\Documents\\programacao\\Fiap\\CSharp.NET-FIAP\\Revisao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Saes\\Documents\\programacao\\Fiap\\CSharp.NET-FIAP\\Revisao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:46:18.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Saes\\Documents\\programacao\\Fiap\\CSharp.NET-FIAP\\Revisao\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Saes\\Documents\\programacao\\Fiap\\CSharp.NET-FIAP\\Revisao\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:45:57.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Saes\\Documents\\programacao\\Fiap\\CSharp.NET-FIAP\\Revisao\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Saes\\Documents\\programacao\\Fiap\\CSharp.NET-FIAP\\Revisao\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T13:46:15.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Revisao",
+              "DocumentMoniker": "C:\\Users\\Saes\\Documents\\programacao\\Fiap\\CSharp.NET-FIAP\\Revisao\\Revisao.csproj",
+              "RelativeDocumentMoniker": "Revisao.csproj",
+              "ToolTip": "C:\\Users\\Saes\\Documents\\programacao\\Fiap\\CSharp.NET-FIAP\\Revisao\\Revisao.csproj",
+              "RelativeToolTip": "Revisao.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T13:45:55.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
