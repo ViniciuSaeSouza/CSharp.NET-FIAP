@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+kP1MFkXtT0=",
+  "dgSpecHash": "Q7PLQzON8JQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vinic\\Documents\\programacao\\Fiap\\CSharp.NET-FIAP\\TDSPK\\TDSPK.csproj",
+  "projectFilePath": "C:\\Users\\Vinic\\Documents\\programacao\\Fiap\\CSharp.NET\\TDSPK\\TDSPK.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vinic\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Vinic\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
