@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using SendNotificationPJ.Application.DTOs.Request;
+
 
 namespace SendNotificationPJ.API.Controllers
 {
@@ -8,8 +10,9 @@ namespace SendNotificationPJ.API.Controllers
     public class SendNotificationController : ControllerBase
     {
         [HttpPost]
-        public void Post([FromBody] string value)
+        public void Post([FromBody] NotificationRequest notificationRequest)
         {
+            
         }
     }
 }
