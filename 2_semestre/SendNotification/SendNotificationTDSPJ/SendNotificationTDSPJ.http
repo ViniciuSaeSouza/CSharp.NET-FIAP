@@ -1,0 +1,6 @@
+@SendNotificationTDSPJ_HostAddress = http://localhost:5003
+
+GET {{SendNotificationTDSPJ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

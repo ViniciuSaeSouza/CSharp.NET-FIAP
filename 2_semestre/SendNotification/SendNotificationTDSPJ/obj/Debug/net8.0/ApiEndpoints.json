@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SendNotificationTDSPJ.Controllers.SendNotificationController",
+    "Method": "Post",
+    "RelativePath": "api/SendNotification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "notificationRequest",
+        "Type": "SendNotificationTDSPJ.Application.DTOS.Requests.NotificationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

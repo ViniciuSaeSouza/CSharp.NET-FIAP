@@ -1,0 +1,12 @@
+C:\Users\Vinic\Documents\programacao\Fiap\2_ano\CSharp.NET\2_semestre\SendNotification\SendNotificationTDSPJ.Application\bin\Debug\net8.0\SendNotificationTDSPJ.Application.deps.json
+C:\Users\Vinic\Documents\programacao\Fiap\2_ano\CSharp.NET\2_semestre\SendNotification\SendNotificationTDSPJ.Application\bin\Debug\net8.0\SendNotificationTDSPJ.Application.dll
+C:\Users\Vinic\Documents\programacao\Fiap\2_ano\CSharp.NET\2_semestre\SendNotification\SendNotificationTDSPJ.Application\bin\Debug\net8.0\SendNotificationTDSPJ.Application.pdb
+C:\Users\Vinic\Documents\programacao\Fiap\2_ano\CSharp.NET\2_semestre\SendNotification\SendNotificationTDSPJ.Application\obj\Debug\net8.0\SendNotificationTDSPJ.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinic\Documents\programacao\Fiap\2_ano\CSharp.NET\2_semestre\SendNotification\SendNotificationTDSPJ.Application\obj\Debug\net8.0\SendNotificationTDSPJ.Application.AssemblyInfoInputs.cache
+C:\Users\Vinic\Documents\programacao\Fiap\2_ano\CSharp.NET\2_semestre\SendNotification\SendNotificationTDSPJ.Application\obj\Debug\net8.0\SendNotificationTDSPJ.Application.AssemblyInfo.cs
+C:\Users\Vinic\Documents\programacao\Fiap\2_ano\CSharp.NET\2_semestre\SendNotification\SendNotificationTDSPJ.Application\obj\Debug\net8.0\SendNotificationTDSPJ.Application.csproj.CoreCompileInputs.cache
+C:\Users\Vinic\Documents\programacao\Fiap\2_ano\CSharp.NET\2_semestre\SendNotification\SendNotificationTDSPJ.Application\obj\Debug\net8.0\SendNotificationTDSPJ.Application.sourcelink.json
+C:\Users\Vinic\Documents\programacao\Fiap\2_ano\CSharp.NET\2_semestre\SendNotification\SendNotificationTDSPJ.Application\obj\Debug\net8.0\SendNotificationTDSPJ.Application.dll
+C:\Users\Vinic\Documents\programacao\Fiap\2_ano\CSharp.NET\2_semestre\SendNotification\SendNotificationTDSPJ.Application\obj\Debug\net8.0\refint\SendNotificationTDSPJ.Application.dll
+C:\Users\Vinic\Documents\programacao\Fiap\2_ano\CSharp.NET\2_semestre\SendNotification\SendNotificationTDSPJ.Application\obj\Debug\net8.0\SendNotificationTDSPJ.Application.pdb
+C:\Users\Vinic\Documents\programacao\Fiap\2_ano\CSharp.NET\2_semestre\SendNotification\SendNotificationTDSPJ.Application\obj\Debug\net8.0\ref\SendNotificationTDSPJ.Application.dll
