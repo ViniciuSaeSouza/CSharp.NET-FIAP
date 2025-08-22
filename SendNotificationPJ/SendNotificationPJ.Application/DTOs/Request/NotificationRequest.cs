@@ -25,6 +25,6 @@ public class NotificationRequest
 
     private void Validate()
     {
-        if (string.IsNullOrEmpty(Text)) throw new ValidationException("Text cannot be null or empty");
+        if (!string.IsNullOrEmpty(Text)) throw new ValidationException("Text cannot be null or empty");
     }
 }

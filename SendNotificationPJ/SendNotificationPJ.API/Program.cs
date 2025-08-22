@@ -1,3 +1,5 @@
+using SendNotificationPJ.Application.UseCase;
+
 namespace SendNotificationPJ.API;
 
 public class Program
@@ -12,7 +14,9 @@ public class Program
         // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();
-
+        
+        builder.Services.AddScoped<INotificationUseCase, NotificationUseCase>();
+        
         var app = builder.Build();
 
         // Configure the HTTP request pipeline.
