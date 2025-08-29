@@ -1,3 +1,5 @@
+using Google.Protobuf;
+using SendNotification.Infrastructure;
 using SendNotificationPJ.Application.UseCase;
 
 namespace SendNotificationPJ.API;
@@ -14,6 +16,9 @@ public class Program
         // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();
+        
+        builder.Services.AddDBContext(builder.Configuration);
+        builder.Services.AddRepositories();
         
         builder.Services.AddScoped<INotificationUseCase, NotificationUseCase>();
         

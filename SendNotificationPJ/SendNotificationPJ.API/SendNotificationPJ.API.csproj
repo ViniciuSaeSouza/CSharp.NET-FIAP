@@ -24,6 +24,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\SendNotificationPJ.Application\SendNotificationPJ.Application.csproj" />
+      <ProjectReference Include="..\SendNotificationPJ.Infrastructure\SendNotificationPJ.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>
