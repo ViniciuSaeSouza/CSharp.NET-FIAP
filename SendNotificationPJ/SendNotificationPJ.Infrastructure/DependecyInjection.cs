@@ -11,7 +11,11 @@ public static class DependecyInjection
     {
         return services.AddDbContext<SendNotificationPJContext>(options =>
         {
-            options.UseMySQL(configuration.GetConnectionString("MessageAPI"));
+            var connectionString = configuration.GetConnectionString("MessageAPI");
+            options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString), my =>
+            {
+                my.EnableRetryOnFailure(); 
+            });
         });
     }
 

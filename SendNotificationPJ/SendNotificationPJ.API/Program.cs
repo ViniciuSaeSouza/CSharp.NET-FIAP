@@ -1,4 +1,3 @@
-using Google.Protobuf;
 using SendNotification.Infrastructure;
 using SendNotificationPJ.Application.UseCase;
 

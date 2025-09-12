@@ -8,11 +8,11 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="MySql.EntityFrameworkCore" Version="9.0.6" />
+      <ProjectReference Include="..\SendNotificationPJ.Domain\SendNotificationPJ.Domain.csproj" />
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\SendNotificationPJ.Domain\SendNotificationPJ.Domain.csproj" />
+      <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="9.0.0" />
     </ItemGroup>
 
 </Project>
