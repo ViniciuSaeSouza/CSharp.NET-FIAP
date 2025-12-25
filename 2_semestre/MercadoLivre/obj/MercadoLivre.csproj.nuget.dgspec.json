@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinic\\Documents\\programacao\\Fiap\\1_semestre\\CSharp.NET\\2_semestre\\MercadoLivre\\MercadoLivre.csproj": {}
+    "C:\\Users\\Vinic\\Documents\\programacao\\Fiap\\2_ano\\CSharp.NET\\2_semestre\\MercadoLivre\\MercadoLivre.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinic\\Documents\\programacao\\Fiap\\1_semestre\\CSharp.NET\\2_semestre\\MercadoLivre\\MercadoLivre.csproj": {
+    "C:\\Users\\Vinic\\Documents\\programacao\\Fiap\\2_ano\\CSharp.NET\\2_semestre\\MercadoLivre\\MercadoLivre.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinic\\Documents\\programacao\\Fiap\\1_semestre\\CSharp.NET\\2_semestre\\MercadoLivre\\MercadoLivre.csproj",
+        "projectUniqueName": "C:\\Users\\Vinic\\Documents\\programacao\\Fiap\\2_ano\\CSharp.NET\\2_semestre\\MercadoLivre\\MercadoLivre.csproj",
         "projectName": "MercadoLivre",
-        "projectPath": "C:\\Users\\Vinic\\Documents\\programacao\\Fiap\\1_semestre\\CSharp.NET\\2_semestre\\MercadoLivre\\MercadoLivre.csproj",
+        "projectPath": "C:\\Users\\Vinic\\Documents\\programacao\\Fiap\\2_ano\\CSharp.NET\\2_semestre\\MercadoLivre\\MercadoLivre.csproj",
         "packagesPath": "C:\\Users\\Vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinic\\Documents\\programacao\\Fiap\\1_semestre\\CSharp.NET\\2_semestre\\MercadoLivre\\obj\\",
+        "outputPath": "C:\\Users\\Vinic\\Documents\\programacao\\Fiap\\2_ano\\CSharp.NET\\2_semestre\\MercadoLivre\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

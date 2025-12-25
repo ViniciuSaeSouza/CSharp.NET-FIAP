@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SendNotificationTDSPJ.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4b061361d54677c99d7f38e583f2e28fdfbef46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+898d7f820eb90ffd958e50ad710adf5faa351da4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SendNotificationTDSPJ.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SendNotificationTDSPJ.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
